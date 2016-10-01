@@ -9,5 +9,7 @@
 
 int main(){
     printf("hello man!\n");
+        
+    printf("hello man!\n");
     return 0;
 }
